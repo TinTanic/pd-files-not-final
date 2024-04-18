@@ -1,0 +1,2 @@
+-pd.py
+-run.sh (para mag run agad yung python file)
